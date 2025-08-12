@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen The Anh</h1>
-<h3 align="center">I'm a Full-Stack Developer from VietNam</h3>
+<h3 align="center">I'm following Full-Stack Developer from VietNam</h3>
 
 - 📫 How to reach me **anhntps38560@gmail.com**  
 - ⚡ Fun fact **I'm the best**
