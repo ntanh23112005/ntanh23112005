@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ntanh23112005&color=ff69b4)
 
 - 📫 How to reach me **anhntps38560@gmail.com**  
-- ⚡ Fun fact **I'm the best**
+- ⚡ Fun fact **I can code (dirty) and it has a whole bunch of bugs =))**
 
 ---
 
