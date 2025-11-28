@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen The Anh</h1>
-<h3 align="center">I'm Front-End Developer and now I'm following Full-Stack Developer</h3>
+<h3 align="center">I'm Full-Stack Developer at Aegona Co., Ltd</h3>
 
 ![](https://komarev.com/ghpvc/?username=ntanh23112005&color=ff69b4)
 
